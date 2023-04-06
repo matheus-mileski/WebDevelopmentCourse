@@ -1,0 +1,13 @@
+{
+ "development": {
+  "use_env_variable": "DB_DEV_ENV"
+ },
+
+ "test": {
+  "use_env_variable": "DB_TEST_ENV"
+ },
+    
+ "production": {
+  "use_env_variable": "postgres://user:password@127.0.0.1:5432/richard_airlines_production"
+ }
+}

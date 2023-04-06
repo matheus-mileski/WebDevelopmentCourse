@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "apucarana",
+    "database": "richard_airlines_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "apucarana",
+    "database": "richard_airlines_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "apucarana",
+    "database": "richard_airlines_production",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
